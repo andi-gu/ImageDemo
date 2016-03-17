@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\MyApplication\\MyApplication\\zoomImageDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\a.png",
+        "source": "E:\\MyApplication\\MyApplication\\zoomImageDemo\\src\\main\\res\\drawable\\a.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\MyApplication\\zoomImageDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\commit.png",
+        "source": "E:\\MyApplication\\MyApplication\\zoomImageDemo\\src\\main\\res\\drawable\\commit.png"
+    }
+]

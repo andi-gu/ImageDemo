@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\MyApplication\\MyApplication\\dragImageView\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\you.jpg",
+        "source": "E:\\MyApplication\\MyApplication\\dragImageView\\src\\main\\res\\drawable-hdpi\\you.jpg"
+    },
+    {
+        "merged": "E:\\MyApplication\\MyApplication\\dragImageView\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\MyApplication\\MyApplication\\dragImageView\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\MyApplication\\dragImageView\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\huoying.jpg",
+        "source": "E:\\MyApplication\\MyApplication\\dragImageView\\src\\main\\res\\drawable-hdpi\\huoying.jpg"
+    }
+]
